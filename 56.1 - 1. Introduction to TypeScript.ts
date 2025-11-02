@@ -8,9 +8,9 @@ var<varible-name>:DT = <value>; //type annotation or type signature.
 */
 
 let id : number = 25;
-let firstName = "Mukesh";//still works, internally uses DT. but check out below line.
+let firstNamee = "Mukesh";//still works, internally uses DT. but check out below line.
 // firstName = 5;//type 'number' is not assignable to type 'string'., happens with 'var' as well.
-console.log(id, firstName);
+console.log(id, firstNamee);
 
 
 
