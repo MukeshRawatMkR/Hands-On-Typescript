@@ -29,18 +29,14 @@ DONE
 
 6. 
 ```
-Notes:
-1. 
-2. 
-3. 
+DONE
 ```
 
 7. 
 ```
 Notes:
-1. 
-2. 
-3. 
+1. Enums -> https://docs.google.com/document/d/1IZzhPIsKU_McOwiSoQi7dZyZtcxosP7ZUhzml4TyKuQ/edit?tab=t.0
+DONE
 ```
 
 8. 
